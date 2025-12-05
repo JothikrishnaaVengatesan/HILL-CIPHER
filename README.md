@@ -1,13 +1,9 @@
 # HILL CIPHER
 HILL CIPHER
-EX. NO: 3 
+### EX. NO: 3 IMPLEMENTATION OF HILL CIPHER
 
 ## AIM:
- 
-
-IMPLEMENTATION OF HILL CIPHER
- 
-## To write a python program to implement the hill cipher substitution techniques.
+ To write a python program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
